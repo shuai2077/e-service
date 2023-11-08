@@ -47,7 +47,6 @@
 
 > 1. 本项目仅用于学习练习
 > 2. 本项目还不完善，仍处在开发中，不承担任何使用后果
-> 3. 本项目代码开源[MIT](./LICENSE)，项目文档采用 [署名-禁止演绎 4.0 国际协议许可](https://creativecommons.org/licenses/by-nd/4.0/deed.zh)
 
 ## 致谢
 
